@@ -38,7 +38,7 @@ Reference materials for a career in data/technology.
 - [Data Engineering Wiki](https://dataengineering.wiki/Index)
 - [OnlyTechFans](https://www.onlytechfans.com/)
 
-## newsletters :email:
+## Newsletters :email:
 
 - [Data Hackers](https://www.datahackers.com.br/)
 - [The news](https://thenewscc.com.br/indicacao?grsf=pzvkoz)
