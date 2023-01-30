@@ -14,7 +14,7 @@ Reference materials for a career in data/technology.
 
 :books: books:
 
-Técnicos
+Técnicos 
 
 - Python Para Análise de Dados - Wes McKinney
 - Pense em Python - Allen B. Downey
@@ -39,3 +39,20 @@ Storytelling
 
 - Storytelling com dados - Cole Nussbaumer Knaflic
 - Storytelling: Aprenda a contar histórias - Carmine Gallo
+
+
+# Data + AI Summit
+
+[Data & AI Summit 2022 ](https://www.notion.so/Data-AI-Summit-2022-747ab91508ff41bdb18b312297a5fd5b)
+
+[Google Cloud](https://www.notion.so/Google-Cloud-bc4ba417b18246c1bc457fe0fb2ac472)
+
+[Biz Impact](https://www.notion.so/Biz-Impact-1dfa936a714c4d0b84a7d0a312a9a1db)
+
+[The Developer's Conference](https://www.notion.so/The-Developer-s-Conference-eea89c2986d64188aa6cdc8842e9c61c)
+
+[Coalesce](https://www.notion.so/Coalesce-13626ef4cbfe43e89092a4531224a99f)
+
+[Codecon](https://www.notion.so/Codecon-e61f00c22426421bb15931fbc3abb7e6)
+
+[Digital Product Week](https://www.notion.so/Digital-Product-Week-e4bfbc80adb849028a589e429fcad491)
