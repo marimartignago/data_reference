@@ -38,6 +38,14 @@ Reference materials for a career in data/technology.
 - [Data Engineering Wiki](https://dataengineering.wiki/Index)
 - [OnlyTechFans](https://www.onlytechfans.com/)
 
+## newsletters :email:
+
+- [Data Hackers](https://www.datahackers.com.br/)
+- [The news](https://thenewscc.com.br/indicacao?grsf=pzvkoz)
+- [Filipe Deschamps](https://filipedeschamps.com.br/newsletter)
+- [Data Engineering Weekly - Ananth Packkildurai](https://www.dataengineeringweekly.com/)
+- [mds: modern data stack](https://letters.moderndatastack.xyz/)
+- [Bits to Brands - Beatriz Guarezi](https://open.substack.com/pub/bitstobrands/p/twitter-elon-musk-internet-redes-sociais?utm_campaign=post&utm_medium=email)
 
 ## Books 📚
 
