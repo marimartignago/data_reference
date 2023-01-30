@@ -1,4 +1,4 @@
-# data_reference
+# data_reference :game_die:
 
 Reference materials for a career in data/technology.   
 
