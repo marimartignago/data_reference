@@ -12,6 +12,33 @@ Reference materials for a career in data/technology.
 * [The Banana Data Podcast](https://open.spotify.com/show/3uZK2aPeVwnADRqyYR4nt0?si=46fe6c08a56644af&nd=1)
 
 
+
+## Events :speech_balloon:
+
+[Data & AI Summit 2022 ](https://www.notion.so/Data-AI-Summit-2022-747ab91508ff41bdb18b312297a5fd5b)
+
+[Google Cloud](https://www.notion.so/Google-Cloud-bc4ba417b18246c1bc457fe0fb2ac472)
+
+[Biz Impact](https://www.notion.so/Biz-Impact-1dfa936a714c4d0b84a7d0a312a9a1db)
+
+[The Developer's Conference](https://www.notion.so/The-Developer-s-Conference-eea89c2986d64188aa6cdc8842e9c61c)
+
+[Coalesce](https://www.notion.so/Coalesce-13626ef4cbfe43e89092a4531224a99f)
+
+[Codecon](https://www.notion.so/Codecon-e61f00c22426421bb15931fbc3abb7e6)
+
+[Digital Product Week](https://www.notion.so/Digital-Product-Week-e4bfbc80adb849028a589e429fcad491)
+
+## Communities :bulb:
+
+- [Mulheres em dados](https://discord.gg/mulheresemdados)
+- [Data Hackers](https://www.datahackers.com.br/)
+- [Datta](https://discord.gg/FCNHFRf7)
+- [WoMakersCode](https://womakerscode.org/)
+- [Data Engineering Wiki](https://dataengineering.wiki/Index)
+- [OnlyTechFans](https://www.onlytechfans.com/)
+
+
 ## Books 📚
 
 Técnicos 
@@ -40,28 +67,3 @@ Storytelling
 - Storytelling com dados - Cole Nussbaumer Knaflic
 - Storytelling: Aprenda a contar histórias - Carmine Gallo
 
-
-## Events :speech_balloon:
-
-[Data & AI Summit 2022 ](https://www.notion.so/Data-AI-Summit-2022-747ab91508ff41bdb18b312297a5fd5b)
-
-[Google Cloud](https://www.notion.so/Google-Cloud-bc4ba417b18246c1bc457fe0fb2ac472)
-
-[Biz Impact](https://www.notion.so/Biz-Impact-1dfa936a714c4d0b84a7d0a312a9a1db)
-
-[The Developer's Conference](https://www.notion.so/The-Developer-s-Conference-eea89c2986d64188aa6cdc8842e9c61c)
-
-[Coalesce](https://www.notion.so/Coalesce-13626ef4cbfe43e89092a4531224a99f)
-
-[Codecon](https://www.notion.so/Codecon-e61f00c22426421bb15931fbc3abb7e6)
-
-[Digital Product Week](https://www.notion.so/Digital-Product-Week-e4bfbc80adb849028a589e429fcad491)
-
-## Communities :coffee:
-
-- [Mulheres em dados](https://discord.gg/mulheresemdados)
-- [Data Hackers](https://www.datahackers.com.br/)
-- [Datta](https://discord.gg/FCNHFRf7)
-- [WoMakersCode](https://womakerscode.org/)
-- [Data Engineering Wiki](https://dataengineering.wiki/Index)
-- [OnlyTechFans](https://www.onlytechfans.com/)
