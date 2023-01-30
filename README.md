@@ -12,7 +12,7 @@ Reference materials for a career in data/technology.
 * [The Banana Data Podcast](https://open.spotify.com/show/3uZK2aPeVwnADRqyYR4nt0?si=46fe6c08a56644af&nd=1)
 
 
-:books: # books:
+:books: # Books:
 
 Técnicos 
 
@@ -41,7 +41,7 @@ Storytelling
 - Storytelling: Aprenda a contar histórias - Carmine Gallo
 
 
-# Events:
+
 
 [Data & AI Summit 2022 ](https://www.notion.so/Data-AI-Summit-2022-747ab91508ff41bdb18b312297a5fd5b)
 
