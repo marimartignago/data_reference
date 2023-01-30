@@ -12,7 +12,7 @@ Reference materials for a career in data/technology.
 * [The Banana Data Podcast](https://open.spotify.com/show/3uZK2aPeVwnADRqyYR4nt0?si=46fe6c08a56644af&nd=1)
 
 
-:books:##books:
+:books: ## books:
 Técnicos
 
 - Python Para Análise de Dados - Wes McKinney
