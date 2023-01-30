@@ -56,3 +56,12 @@ Storytelling
 [Codecon](https://www.notion.so/Codecon-e61f00c22426421bb15931fbc3abb7e6)
 
 [Digital Product Week](https://www.notion.so/Digital-Product-Week-e4bfbc80adb849028a589e429fcad491)
+
+## Communities :coffee:
+
+- [Mulheres em dados](https://discord.gg/mulheresemdados)
+- [Data Hackers](https://www.datahackers.com.br/)
+- [Datta](https://discord.gg/FCNHFRf7)
+- [WoMakersCode](https://womakerscode.org/)
+- [Data Engineering Wiki](https://dataengineering.wiki/Index)
+- [OnlyTechFans](https://www.onlytechfans.com/)
