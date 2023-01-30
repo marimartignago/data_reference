@@ -10,3 +10,31 @@ Reference materials for a career in data/technology.
 * [Google Cloud Cast](https://open.spotify.com/show/6mRL38R3eKP55vqlHLKCdZ?si=9852a8cfdc7d4b10&nd=1)
 * [CI&T Podcast](https://open.spotify.com/show/7ICSs5l1OQnGr62i0xrL5L?si=359eed5bb5ac4f49&nd=1)
 * [The Banana Data Podcast](https://open.spotify.com/show/3uZK2aPeVwnADRqyYR4nt0?si=46fe6c08a56644af&nd=1)
+
+
+books:
+## Técnicos
+
+- Python Para Análise de Dados - Wes McKinney
+- Pense em Python - Allen B. Downey
+- Problemas Clássicos de Ciência da Computação com Python - David Kopec
+- Clean Code: A Handbook of Agile Software - Martin Robert C.
+- Mãos à obra: aprendizado de máquina com Scikit-Learn & TensorFlow - Aurélien Géron
+
+## Pensamento crítico
+
+- Antifrágil: Coisas que se beneficiam com o caos - Nassim Nicholas Taleb
+- O sinal e o ruido - Nate Silver
+- O andar do bêbado: Como o acaso determina nossas vidas - Leonard Mlodinow
+- Big Tech: A ascensão dos dados e a morte da política - Evgeny Morozov
+
+## Estatística
+
+- Estatística: O que é, para que serve e como funciona? - Charles Wheelan
+- Uma senhora toma chá - David Salsburg
+- Como Mentir com Estatística - Darrell Huff
+
+## Storytelling
+
+- Storytelling com dados - Cole Nussbaumer Knaflic
+- Storytelling: Aprenda a contar histórias - Carmine Gallo
