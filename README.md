@@ -2,7 +2,7 @@
 
 Reference materials for a career in data/technology.   
 
-# podcasts :headphones:
+## podcasts :headphones:
 * [Pizza de dados](https://open.spotify.com/show/5k0Ei0MSg5BuiHshr43aSg?si=ba8099dc380d40bc&nd=1)
 * [Data Hackers](https://open.spotify.com/show/1oMIHOXsrLFENAeM743g93?si=a9225f3810f44744&nd=1)
 * [Let´s Data](https://open.spotify.com/show/0VsNN95jsJVRS424eCFDlg?si=4c73a07b445a492a&nd=1)
@@ -12,7 +12,7 @@ Reference materials for a career in data/technology.
 * [The Banana Data Podcast](https://open.spotify.com/show/3uZK2aPeVwnADRqyYR4nt0?si=46fe6c08a56644af&nd=1)
 
 
-# Books 📚
+## Books 📚
 
 Técnicos 
 
@@ -41,7 +41,7 @@ Storytelling
 - Storytelling: Aprenda a contar histórias - Carmine Gallo
 
 
-# Events :speech_balloon:
+## Events :speech_balloon:
 
 [Data & AI Summit 2022 ](https://www.notion.so/Data-AI-Summit-2022-747ab91508ff41bdb18b312297a5fd5b)
 
