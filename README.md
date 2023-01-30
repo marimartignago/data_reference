@@ -41,7 +41,7 @@ Storytelling
 - Storytelling: Aprenda a contar histórias - Carmine Gallo
 
 
-# Data + AI Summit
+# Events
 
 [Data & AI Summit 2022 ](https://www.notion.so/Data-AI-Summit-2022-747ab91508ff41bdb18b312297a5fd5b)
 
