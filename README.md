@@ -21,20 +21,20 @@ Técnicos
 - Clean Code: A Handbook of Agile Software - Martin Robert C.
 - Mãos à obra: aprendizado de máquina com Scikit-Learn & TensorFlow - Aurélien Géron
 
-## Pensamento crítico
+Pensamento crítico
 
 - Antifrágil: Coisas que se beneficiam com o caos - Nassim Nicholas Taleb
 - O sinal e o ruido - Nate Silver
 - O andar do bêbado: Como o acaso determina nossas vidas - Leonard Mlodinow
 - Big Tech: A ascensão dos dados e a morte da política - Evgeny Morozov
 
-## Estatística
+Estatística
 
 - Estatística: O que é, para que serve e como funciona? - Charles Wheelan
 - Uma senhora toma chá - David Salsburg
 - Como Mentir com Estatística - Darrell Huff
 
-## Storytelling
+Storytelling
 
 - Storytelling com dados - Cole Nussbaumer Knaflic
 - Storytelling: Aprenda a contar histórias - Carmine Gallo
